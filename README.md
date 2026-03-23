@@ -1,4 +1,4 @@
-<h1 align="center">Salom 👋, Men Ergashev Nur</h1>
+<h1 align="center">Salom 👋, Men CodeNur</h1>
 <h3 align="center">Frontend Developer 🇺🇿</h3>
 
 <p align="center">
