@@ -10,10 +10,6 @@
 ## 🧑‍💻 Men haqimda:
 
 - 🔭 Hozir men **CRM sistema** ustida ishlayapman
-- 🌱 Hozir **Backend** yo‘nalishini o‘rganayapman
-- 👯 Hamkorlik qilmoqchiman: **Ha**
-- 🤔 Yordam kerak: **None**
-- 💬 Mendan so‘rang: **HTML, CSS, JavaScript, React, Next.js, React Native, Python, Node.js**
 - 📫 Bog‘lanish: **https://t.me/codenur**
 - ⚡ Qiziqarli fakt: **Izlanuvchanman 🚀**
 
