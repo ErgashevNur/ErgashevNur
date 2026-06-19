@@ -1,34 +1,54 @@
-<h1 align="center">Salom 👋, Men CodeNur</h1>
-<h3 align="center">Frontend Developer</h3>
+# MuhammadNurulloh Ergashev
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeNur&label=Ko'rishlar&color=0e75b6&style=flat" alt="views" />
-</p> -->
+**Frontend Developer & AI Specialist** · Lead Developer @ [Zamon Digital Tech](https://codenur.uz)
 
----
-
-## 🧑‍💻 Men haqimda:
-
-- 🔭 Hozir men **CRM sistema** ustida ishlayapman
-- 📫 Bog‘lanish: **https://t.me/codenur**
-- ⚡ Qiziqarli fakt: **Izlanuvchanman 🚀**
+📍 Fergana, Uzbekistan · 🌐 [codenur.uz](https://codenur.uz) · 💬 [t.me/codenur](https://t.me/codenur)
 
 ---
 
-## 🌐 Bog‘lanish:
+## About Me
 
-<p>
-  <a href="https://t.me/codenur">Telegram</a>
-</p>
+I build AI-powered products that actually ship — from concept to production. As Lead Developer at Zamon Digital Tech, I manage web, mobile, and AI integration projects in parallel. My approach combines clean engineering with practical AI to solve real business problems.
 
----
+- 🚀 Currently building **Kotibam CRM** — an AI-powered CRM with voice input & smart lead distribution (live on App Store & Play Market)
+- - 🤖 Deep experience integrating OpenAI API into production applications
+  - - ⚡ Fun fact: I built Kotibam CRM solo in **40 days**, powered by AI
+   
+    - ---
 
-## 🛠 Texnologiyalar va asboblar:
+    ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,python,nodejs,reactnative" />
-</p>
+    **Frontend**
+    ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
+    **Backend & Database**
+    ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+    ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-## Agarda yordam kerak bo'lsa qahvaga ☕ taklif qiling, qolganini hal qilamiz. 
+    **AI & Tools**
+    ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+    ---
+
+    ## 🚀 Featured Projects
+
+    | Project | Description | Stack |
+    |---------|-------------|-------|
+    | [**kotibam.uz**](https://kotibam.uz) | AI-powered CRM with voice input & smart lead distribution | Flutter · Next.js · OpenAI API · PostgreSQL |
+    | [**jahonbozori.uz**](https://jahonbozori.uz) | International trade center platform (33.3 hectares) | React.js · Nest.js · Node.js · PostgreSQL |
+    | **Kasaba Ta'lim** | Corporate learning platform for trade unions | React.js · Flutter · Nest.js · PostgreSQL |
+    | **My Santex** | Plumbing store chain management system | React.js · Redux · Node.js · PostgreSQL |
+
+    ---
+
+    ## 📬 Connect
+
+    - **Telegram:** [t.me/codenur](https://t.me/codenur)
+    - - **Portfolio:** [codenur.uz](https://codenur.uz)
+      - - **Email:** dodgechalanger9@gmail.com
