@@ -1,6 +1,6 @@
 # MuhammadNurulloh Ergashev
 
-**Frontend Developer & AI Specialist** · Lead Developer @ [Zamon Digital Tech](https://codenur.uz)
+**Developer & AI Specialist** · Lead Developer @ [Zamon Digital Tech](https://codenur.uz)
 
 📍 Fergana, Uzbekistan · 🌐 [codenur.uz](https://codenur.uz) · 💬 [t.me/codenur](https://t.me/codenur)
 
