@@ -44,8 +44,7 @@ I build AI-powered products that actually ship — from concept to production. A
 |---------|-------------|-------|
 | [**kotibam.uz**](https://kotibam.uz) | AI-powered CRM with voice input & smart lead distribution | Flutter · Next.js · OpenAI API · PostgreSQL |
 | [**jahonbozori.uz**](https://jahonbozori.uz) | International trade center platform (33.3 hectares) | React.js · Nest.js · Node.js · PostgreSQL |
-| **Kasaba Ta'lim** | Corporate learning platform for trade unions | React.js · Flutter · Nest.js · PostgreSQL |
-| **My Santex** | Plumbing store chain management system | React.js · Redux · Node.js · PostgreSQL |
+| [**My Santex**](https://mysantex.uz) | Plumbing store chain management system | React.js · Redux · Node.js · PostgreSQL |
 
 ---
 
@@ -53,4 +52,4 @@ I build AI-powered products that actually ship — from concept to production. A
 
 - **Telegram:** [t.me/codenur](https://t.me/codenur)
 - **Portfolio:** [codenur.uz](https://codenur.uz)
-- **Email:** dodgechalanger9@gmail.com
+- **Email:** muhammadnurullohergashev@gmail.com
